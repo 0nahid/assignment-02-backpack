@@ -20,6 +20,18 @@ h6 {
     line-height: 0.8;
     font-weight: 500;
 }
+
+
+.nav-link {
+    margin-left: 40px;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.header-main img {
+    height: 400px;
+    margin-bottom: 50px;
+}
 .header-paragraph{
     width: 310px;
 }
@@ -29,6 +41,7 @@ h6 {
     border-radius: 8px;
 }
 
-.footer-text a {
+.footer-author a{
     text-decoration: none;
+    color: rgb(206, 29, 29);
 }
